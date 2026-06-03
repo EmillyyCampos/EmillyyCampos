@@ -40,26 +40,6 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmillyyCampos&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyyCampos&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EmillyyCampos&theme=midnight-purple&hide_border=true&background=0D1117"/>
-
-</div>
----
 
 ## 🌸 Atualmente
 
