@@ -12,7 +12,7 @@
 
 ---
 
-## 🌷 Sobre mim
+## 🌷 𝘚𝘰𝘣𝘳𝘦 𝘮𝘪𝘮
 
 ```yaml
 Nome: Emilly Campos
