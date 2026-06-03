@@ -72,7 +72,7 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 <div align="center">
 
-### ✨ Obrigada pela visita!
+### ✨ 𝘖𝘣𝘳𝘪𝘨𝘢𝘥𝘢 𝘱𝘦𝘭𝘢 𝘷𝘪𝘴𝘪𝘵𝘢!
 
 <img src="https://komarev.com/ghpvc/?username=EmillyyCampos&style=for-the-badge&color=blueviolet"/>
 
