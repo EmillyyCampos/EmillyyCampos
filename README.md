@@ -36,19 +36,17 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,vscode,mysql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,git,github,vscode&theme=dark"/>
 
 </div>
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmillyyCampos&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmillyyCampos&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyyCampos&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyyCampos&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -58,10 +56,9 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EmillyyCampos&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EmillyyCampos&theme=midnight-purple&hide_border=true&background=0D1117"/>
 
 </div>
-
 ---
 
 ## 🌸 Atualmente
