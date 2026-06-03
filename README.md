@@ -16,7 +16,7 @@
 
 ```yaml
 Nome: Emilly Campos
-Localização: Brasil 🇧🇷
+Localização: Brasil 
 Área: Desenvolvimento de Software
 Status: Aprendendo e evoluindo diariamente 🚀
 Objetivo: Construir soluções úteis através da tecnologia
