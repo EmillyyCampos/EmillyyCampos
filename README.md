@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,30&text=Emilly%20Campos&fontSize=50&fontColor=fff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,30&text=ℰ𝓂𝒾𝓁𝓁𝓎%20𝒞𝒶𝓂𝓅ℴ𝓈&fontSize=50&fontColor=fff&animation=fadeIn"/>
 
 # ✨ Olá, eu sou Emilly Campos
 
