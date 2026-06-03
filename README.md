@@ -32,7 +32,7 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 ---
 
-## 💻 Tecnologias
+## 💻 𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Objetivo: Construir soluções úteis através da tecnologia
 </div>
 
 
-## 🌸 Atualmente
+## 🌸 𝘈𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦
 
 - 📖 Estudando desenvolvimento web
 - 💻 Criando projetos pessoais
@@ -50,7 +50,7 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🌎 𝘊𝘰𝘯𝘦𝘤𝘵𝘦-𝘴𝘦 𝘤𝘰𝘮𝘪𝘨𝘰
 
 <div align="center">
 
