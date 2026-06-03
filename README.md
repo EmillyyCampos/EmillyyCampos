@@ -50,16 +50,6 @@ Objetivo: Construir soluções úteis através da tecnologia
 
 ---
 
-## 🎵 Enquanto programo
-
-> ☕ Café
->
-> 🎧 Música
->
-> 💜 Muito código
-
----
-
 ## 🌎 Conecte-se comigo
 
 <div align="center">
