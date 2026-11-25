@@ -18,18 +18,8 @@
 Nome: Emilly Campos
 Localização: Brasil 
 Área: Desenvolvimento de Software
-Status: Aprendendo e evoluindo diariamente 🚀
 Objetivo: Construir soluções úteis através da tecnologia
 ```
-
-✨ Sou apaixonada por tecnologia e desenvolvimento.
-
-📚 Estou sempre explorando novas linguagens, ferramentas e conceitos.
-
-💡 Acredito que cada projeto é uma oportunidade de aprender algo novo.
-
-🎯 Buscando crescer como desenvolvedora e criar projetos cada vez melhores.
-
 ---
 
 ## 💻 𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴
